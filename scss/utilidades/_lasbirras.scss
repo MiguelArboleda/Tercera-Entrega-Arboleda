@@ -1,0 +1,34 @@
+.parrafo1{
+    font-size: 20px;
+    padding-left: 9%;
+    padding-right: 9%;
+    color:#e7e3e4;
+}
+.celda{
+    font-size: 22px;
+    text-decoration: dashed;
+    text-align: center;
+    color:#68edff ;
+}
+.celda1{
+    font-size: 20px;
+    text-align: center;
+    color:#e7e3e4;
+}
+@media(max-width:320px){
+    .parrafo1{
+        font-size: 14px;
+        padding-left: 9%;
+        padding-right: 9%;
+        color: #e7e3e4;
+    }
+    .celda{
+        font-size: 10px;
+        text-decoration: dashed;
+        text-align: center;
+    }
+    .celda{
+        font-size: 8px;
+        text-align: center;
+    }
+}
